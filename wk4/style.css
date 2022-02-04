@@ -2,20 +2,48 @@ body{
     background: #515a47;
     background: radial-gradient(circle, #515a47, #d7be82, #400406);
     font-family: 'Cutive Mono', monospace;
-color: #7CDEDC;
-font-size: 3rem;
+    color: #7CDEDC; 
+    font-size: 3rem;
 }
 
-p{background-color: #94a4ff;}
-i{color: black;}
-b{font-family: 'Neucha', cursive; color:#9E788F; background-color: #400406;}
-/* Type accessible font size is 18*/
+p{
+    background-color: #94a4ff;
+}
+
+i{
+    color: black;
+}
+
+b{
+    font-family: 'Neucha', cursive; 
+    color:#9E788F; 
+    background-color: #400406;}
+
+/* Type accessible font size is 18 or bigger*/
 
 /* titles */
-h1{font-family: 'Neucha', cursive; color: #7A4419;background-color: #474954; font-size: 10rem;}
+
+h1{
+    font-family: 'Neucha', cursive; 
+    color: #7A4419;
+    background-color: #474954; 
+    font-size: 10rem;
+}
+
 h3{font-family: 'Neucha', cursive; color: #7A4419;background-color: #474954;font-size: 6.5rem;}
-h6{font-family: 'Neucha', cursive; color: #7A4419;background-color: #474954; font-size: 3.5rem;}
 
-li{background-color: #A9B3CE; font-size: 2rem;}
+h6{
+    font-family: 'Neucha', cursive; 
+    color: #7A4419;
+    background-color: #474954; 
+    font-size: 3.5rem;}
 
-a{font-family: 'Neucha', cursive; color: #A9B3CE;}
+li{
+    background-color: #A9B3CE; 
+    font-size: 2rem;
+}
+
+a{
+    font-family: 'Neucha', cursive; 
+    color: #A9B3CE;
+}
