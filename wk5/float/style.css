@@ -1,0 +1,57 @@
+body { 
+    background-color: #D7FFAB ;
+}
+
+header{ 
+    min-height: 100px;
+    background-color: #FED766;
+    width: 99.5%;
+}
+
+#col-1{
+    min-height: 200px;
+    background-color: #636B61;
+    width: 24.5%;
+    margin: .2%;
+    float: left;
+}
+
+#col-2{
+    min-height: 200px;
+    background-color: #72788D;
+    width: 24.5%;
+    margin: .2%;
+    float: left;
+}
+
+#col-3{
+    min-height: 200px;
+    background-color: #7A89C2;
+    width: 24.5%;
+    margin: .2%;
+    float: left;
+}
+
+#col-4{
+    min-height: 200px;
+    background-color: #AFA2FF;
+    width: 24.5%;
+    margin: .2%;
+    float: left;
+}
+
+/* . for class and # for id. at least i think.*/
+
+.row{
+    min-height: 5px;
+    width: 100%;
+    clear: both;
+    background-color: #FE4A49
+}
+
+footer{
+    min-height: 200px;
+    background-color: #E3D7FF;
+    width: 100%;
+    clear: both;
+}
