@@ -1,0 +1,65 @@
+/*layout for grid */
+.grid-container {
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+  }
+
+  .image{
+      grid-row: 1;
+      grid-column: 1/ span 2;
+  }
+
+  .introduction{
+      grid-column: 3;
+      grid-row: 1;
+  }
+
+  .ingredients{
+      grid-row: 2;
+      grid-column: 1/ span 3;
+      text-align: center;
+  }
+
+  .istock{
+      grid-row:3
+  }
+
+  .ipaste{
+      grid-row: 3;
+  }
+
+  .istew{
+      grid-row: 3;
+    }
+
+    .note{grid-row: 4;}
+
+    .directions{
+        grid-column: 1/ span 3;
+        grid-row: 5;
+        text-align: center;
+    }
+
+    .stock{grid-row: 6;}
+
+    .paste{grid-row: 6;}
+
+    .stew{grid-row: 6;}
+
+    footer{grid-row: 7;}
+
+    /*layout*/
+    body{
+        background-color: #F7D08A;
+        color: #283044;
+        font-family: 'Nunito', sans-serif;
+        font-weight: 400;
+    }
+
+    /*typography*/
+    h1{color: #6F1A07;}
+    h2{color: #6F1A07;}
+    h3{color: #6F1A07;}
+    b{font-weight: 800;}
+    i{font-weight: 800;}
