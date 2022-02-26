@@ -45,6 +45,8 @@
 
     .stock{grid-row: 6; }
 
+    .stew{grid-row: 6;}
+
     footer{grid-row: 7;}
 
     /*layout*/
