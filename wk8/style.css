@@ -122,7 +122,7 @@ footer {grid-row: 9; grid-column: 1;}
     @media only screen and (max-width: 425px) {
         .grid-container{padding: 25px;}
        body {background-color: #fcf3e4; width: 100%;}
-       .image {width: 100%; grid-column: 1;}
+       .image {width: 50%; grid-column: 1;}
        .introduction{grid-column: 1; grid-row: 2; text-align: center;}
        .ingredients{grid-column: 1; grid-row: 3; text-align: center;}
        .istock{grid-column: 1; grid-row: 4;}
