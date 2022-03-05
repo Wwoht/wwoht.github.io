@@ -120,7 +120,7 @@ footer {grid-row: 9; grid-column: 1;}
 
     /*mobile*/
     @media only screen and (max-width: 425px) {
-        .grid-container{padding: 20px;}
+        .grid-container{padding: 25px;}
        body {background-color: #fcf3e4; width: 100%;}
        .image {width: 100%; grid-column: 1;}
        .introduction{grid-column: 1; grid-row: 2; text-align: center;}
