@@ -3,6 +3,7 @@
     display: grid;
     gap: 10px;
     width: 75%;
+
   }
 
   .image{
@@ -53,13 +54,19 @@
         font-weight: 400;
         font-size: 19.20px;
         background-image: url(img/pattern.png);
+        
     }
 
-    p{background-color: #fcf3e4;}
+    p{background-color: #fcf3e4;
+        border-radius: 25px;
+        padding: 10px;
+        width: 100%;}
 
     img{
         width: 50%;
     }
+
+    
 
     /*typography*/
     h1{
@@ -103,9 +110,15 @@
         background-color: #fcf3e4;
     }
 
-    ul{background-color: #fcf3e4;}
+    ul{background-color: #fcf3e4;
+        border-radius: 25px;
+        padding: 10px;
+        width: 100%;}
 
-    ol{background-color: #fcf3e4;}
+    ol{background-color: #fcf3e4;
+        border-radius: 25px;
+        padding: 10px;
+        width: 100%;}
 
     /*-----media queries-----*/
     /*desktop*/
